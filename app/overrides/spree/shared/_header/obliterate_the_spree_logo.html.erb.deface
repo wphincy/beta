@@ -1,0 +1,3 @@
+<!-- replace_contents "#logo" namespaced -->
+	<%= image_tag "logo.jpg" %>
+	

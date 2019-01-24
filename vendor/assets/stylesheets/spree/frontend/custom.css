@@ -1,0 +1,41 @@
+.header_phone{
+  position: absolute;
+  top:0;
+  right:300px;
+  font-size:400%;
+  font-weight:bold;
+  color:yellow;
+  border: 1px ;
+     padding: 60px;
+}
+
+
+
+
+.header_title{
+  position: absolute;
+  top:0;
+  left:50px;
+  font-size:18px;
+  font-weight:bold;
+  color:yellow;
+  border: 1px ;
+     padding: 60px;
+}
+
+
+.footer {
+  color: white;
+  padding: 0px;
+  list-style-type: none;
+      text-align: center;
+      margin: 0;
+    background-color: #204d74;
+  }
+
+.footer li {
+  
+  display: inline-block;
+      font-size: 30px;
+      padding: 70px;
+}
